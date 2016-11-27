@@ -1,6 +1,6 @@
 # darknet_mnist
 
-Training le-net for MNIST dataset on darknet. For detail, see [qiita entry](TBD).
+Training le-net for MNIST dataset on darknet. For detail, see [qiita entry](http://qiita.com/ashitani/items/7744954f5dbb0419d955).
 
 # requirement
 
