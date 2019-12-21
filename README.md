@@ -19,9 +19,15 @@ cd ../..
 # train
 
 ```
+mkdir /tmp/backup
 ln -s DARKNET_PATH .
 sh ./train.sh
 ```
+
+DARKNET_PATH is the location of darknet executable.
+
+If you want to change temporary dir, modify cfg/mnist_lenet.cfg.
+
 
 # predict
 
